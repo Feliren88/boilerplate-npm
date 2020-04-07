@@ -6,8 +6,9 @@
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
-		"express": "^4.17.1"
-	},
+		"package-name": "version",
+		"express": "4.14.0"
+	  }
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"

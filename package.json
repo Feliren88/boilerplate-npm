@@ -3,6 +3,7 @@
 	"author": "Vicky Feliren",
 	"description": "A project that does something awesome",
 	"keywords": ["freecodecamp", "related", "words"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.17.1"
 	},
